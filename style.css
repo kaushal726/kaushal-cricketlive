@@ -1,4 +1,13 @@
-body{
+body {
   margin: 10px;
   padding: 10px;
+}
+.btnHindi,
+.btnEnglish {
+  border: 5px  aliceblue;
+  border-style: outset;
+  font-size: large;
+  color: purple;
+  border-radius: 10px;
+  text-align: center;
 }
